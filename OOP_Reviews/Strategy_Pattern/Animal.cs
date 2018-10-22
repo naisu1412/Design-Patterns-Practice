@@ -61,9 +61,5 @@ namespace Design_Patterns
         public void setFlyingAbility( IFly newFlyType ){
             flyingType = newFlyType;
         }
-
-        
-
     }
-
 }

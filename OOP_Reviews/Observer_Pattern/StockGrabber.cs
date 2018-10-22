@@ -15,8 +15,6 @@ namespace Design_Patterns{
         public StockGrabber (){
             observers = new List<IObserver>();
         }
-
-
         //Overriding the register in the ISubject
         public void register(IObserver newObserver){
             //adding the observer
@@ -36,10 +34,6 @@ namespace Design_Patterns{
             {
                 observer.update(ibmPrice, applePrice, googlePrice);
             }
-
-
-          
-
         }
 
           public void setApplePrice( double newApplePrice ){

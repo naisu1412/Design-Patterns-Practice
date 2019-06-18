@@ -13,9 +13,9 @@ namespace DecoratorSampleApp
     {
         static void Main(string[] args)
         {
-            Iitem itemInvent = new DeleteBehaviour();
-            Game n = new Game(itemInvent);
-            n.Run();
+            for(int i = 0; i < 5; i++){
+                Console.WriteLine("Hello There");
+            }
         }
     }
 

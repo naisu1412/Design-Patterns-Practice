@@ -9,3 +9,14 @@
 /Users/iMac/Documents/Eric John/Design Patterns/obj/Debug/netcoreapp2.1/Design Patterns.AssemblyInfo.cs
 /Users/iMac/Documents/Eric John/Design Patterns/obj/Debug/netcoreapp2.1/Design Patterns.dll
 /Users/iMac/Documents/Eric John/Design Patterns/obj/Debug/netcoreapp2.1/Design Patterns.pdb
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\bin\Debug\netcoreapp2.1\Design Patterns.deps.json
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.json
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.dev.json
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\bin\Debug\netcoreapp2.1\Design Patterns.dll
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\bin\Debug\netcoreapp2.1\Design Patterns.pdb
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.csprojResolveAssemblyReference.cache
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfo.cs
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.dll
+C:\Users\De Jesus\Documents\Design-Patterns-Practice\obj\Debug\netcoreapp2.1\Design Patterns.pdb
